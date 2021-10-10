@@ -1,0 +1,35 @@
+{
+    "hero": {
+        "header" : "Drink Healthy <br> and Natural Coffee!",
+        "subtext": "Welcome to Nir's coffee shop! I hope you will enjoy my coffee from various places",
+        "bg_image": "images/barista.jpg"
+    },
+    "about": {
+        "header": "Welcome to Nir Joe's Coffee Shop",
+        "subtext": "Welcome to Nir's coffee shop! I hope you will enjoy my coffee from various places",
+        "bg_image": "images/barista-2.jpg",
+        "images": [
+            {"image": "images/coffee.jpg", "caption": "Nir's special guatemala"},
+            {"image": "images/tea.jpg", "caption": "Nir's special flower tea"},
+            {"image": "images/cupcake.jpg", "caption": " Nirs cupcake"}
+
+        ]
+    },
+
+    "team" : {
+        "subheader" :"Team",
+        "header": "Meet the team",
+        "img_background": "images/cafe.png",
+        "members": [
+            {"name": "Joe", "image": "images/person_1.jpg", "quote": "Far far away this is a quote bla bla", "position": "owner"},
+            {"name": "Nir Yosef", "image": "images/nir_image.jpg", "quote": "You miss 100% of the shots you dont take", "position": "Bigger Owner"}
+        ]
+    },
+    "order": {
+        "subheader" :"Order",
+        "header": "Place an Order",
+        "img_background": "images/barista-3.jpg"
+
+        
+    }
+}

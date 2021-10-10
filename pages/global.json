@@ -1,0 +1,10 @@
+{
+    "title": "Nir's Coffee House",
+    "description": "Welcome to my house of coffee. We hope you enjoy our broad selection of premium coffee from all over the world, and Israel especially!",
+    "hours": [
+        {"day":"Sun - Thu", "time": "All day long baby"},
+        {"day":"Friday", "time": "Shabass Baby"},
+        {"day":"Saturday", "time": "Try us from 20:00"}
+
+    ]
+}
